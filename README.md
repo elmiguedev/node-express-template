@@ -1,3 +1,3 @@
-# node-iaipqg
+# Node WebApp Template
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/node-iaipqg)
+Es una plantilla preparada para arrancar un sitio web con node js, utilizando express y handlebars como view engine.
